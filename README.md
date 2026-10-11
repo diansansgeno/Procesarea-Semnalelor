@@ -1,10 +1,9 @@
-Prelucrarea Semnalelor
-Rezolvarea laboratoarelor pentru materia Prelucrarea Semnalelor (obțional pentru anul III, informatică, FMI UniBuc)
+# Prelucrarea Semnalelor
 
-Lab1
-Status: ADDED
-Lab2
-Status: not yet made
-Labx
-Where x >= 2
-Status: not yet made
+Rezolvarea laboratoarelor pentru materia **Prelucrarea Semnalelor** (opțional pentru anul III, Informatică, FMI UniBuc).
+
+## Progres Laboratoare
+
+- [x] **Lab 1:** Adăugat (cu schimbări)
+- [ ] **Lab 2:** Neadăugat încă
+
