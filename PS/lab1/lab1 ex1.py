@@ -89,7 +89,7 @@ axs2[2].set_title('Esantioane z[n]')
 #obs de la laborator: desi sunt semnale diferite, esantionarea aceaste le face sa se sincronizeze
 
 plt.tight_layout()
-fig2.savefig('figura 3.pdf', bbox_inches='tight')
+fig2.savefig('figura 31.pdf', bbox_inches='tight')
 plt.show()
 
 plt.close(fig2)
