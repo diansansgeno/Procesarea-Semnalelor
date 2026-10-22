@@ -5,5 +5,5 @@ Rezolvarea laboratoarelor pentru materia **Prelucrarea Semnalelor** (opțional p
 ## Progres Laboratoare
 
 - [x] **Lab 1:** Adăugat (cu schimbări)
-- [x] **Lab 2:** Neadăugat încă
+- [x] **Lab 2:** Adăugat
 
